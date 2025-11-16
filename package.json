@@ -5,12 +5,12 @@
   },
   "dependencies": {
     "lodash": "^4.17.11",
-    "serverless": "^1.44.1"
+    "serverless": "^4.23.0"
   },
   "description": "A serverless plugin for creating CloudFormation ChangeSets",
   "devDependencies": {
     "chai": "^4.1.2",
-    "eslint": "^4.13.1",
+    "eslint": "^9.39.1",
     "mocha": "^4.0.1",
     "sinon": "^4.1.3"
   },
